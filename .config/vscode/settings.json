@@ -1,7 +1,7 @@
 {
     // Workbench
-    "workbench.colorTheme": "Tokyo Night",
-    "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "Catppuccin Perfect Mocha",
     "workbench.statusBar.visible": false,
     "workbench.list.smoothScrolling": true,
     "workbench.editor.empty.hint": "hidden",
